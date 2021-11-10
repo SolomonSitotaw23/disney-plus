@@ -1,0 +1,12 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: #040714;
+  color: #f9f9f9;
+  font-family: Avenir-roman,sans-serif;
+  margin: 0;
+ padding: 0; 
+}
